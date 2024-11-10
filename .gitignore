@@ -1,2 +1,9 @@
 .DS_Store
 *.swp
+
+
+# Added by cargo
+
+/target
+.shuttle*
+Secrets*.toml
